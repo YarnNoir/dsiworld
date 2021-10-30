@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "dsiworld": {
+      "hosting": {
+        "dsiworld": [
+          "dsiworld"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "dsiworld"
+  }
+}
